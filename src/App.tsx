@@ -204,7 +204,7 @@ export default function App() {
         <p style={{ fontSize: 12, color: '#94a3b8' }}>
           GEO Scorer · 100% client-side · No data stored · Built by{' '}
           <a
-            href="https://catherine-lin.netlify.app"
+            href="https://catherine-fullstack.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
